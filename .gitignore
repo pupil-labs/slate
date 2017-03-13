@@ -22,3 +22,6 @@ build/
 _yardoc
 doc/
 .idea/
+
+# ignore minified css files
+*.min.css
